@@ -1,1 +1,3 @@
 0.0.0.0 www.gog.com
+test
+0.0.0.0 www.gog.com

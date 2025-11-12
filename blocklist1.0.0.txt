@@ -1,2 +1,2 @@
 #start
-0.0.0.0 www.gog.com
+0.0.0.0 www.gog.com0.0.0.0 www.gog.com
